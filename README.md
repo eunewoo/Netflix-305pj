@@ -1,8 +1,10 @@
 # CSE305 Database course Final Project
 
-## Team name: Filmnest
+## Team name: 
+Filmnest
 
-## Collaborators: Biniam Markos, Eunwoo Choi, Ulukbek Atimatov
+## Collaborators:
+Biniam Markos, Eunwoo Choi, Ulukbek Atimatov
 
 ## Used language
 Java(JSP, JDBC)
@@ -16,7 +18,7 @@ sudo mysql -u root -p filmnestdb < filmnestdb.sql
 Change db, owner, password of each function in DAO files into your one.
 Follow comment to how each function is related to each button.
 
-#### GUI, JSP improvements
+## GUI, JSP improvements
 -Changed colors and box alignments which seems like Netflix
 -Insert mockup image for movie to make it more like movie rental site
 -Add login schema, fix java file to rightly pass logged in data in controller
